@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(139, 168, 193) ;
+}
+header{
+    text-align: center;
+}
+.artigo{
+    display: flex;
+}
+.paragrafo1{
+    flex: 70%;
+    padding: 20px;
+}
+.paragrafo2{
+    flex: 70%;
+    padding: 20px;
+}
+.paragrafo3{
+    flex: 70%;
+    padding: 20px;
+}
+.paragrafo4{
+    flex: 70%;
+    padding: 50px;
+}
+footer{
+    text-align: center;
+}
+
